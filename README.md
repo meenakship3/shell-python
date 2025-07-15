@@ -18,7 +18,7 @@ A simple shell implementation built in Python. This project provides a minimal c
 
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/meenakship3/shell-python
    cd shell-python
    ```
 2. Run the shell:
